@@ -1,0 +1,3 @@
+[submodule "DataScience-Project"]
+	path = DataScience-Project
+	url = https://github.com/SupaStuff/DataScience-Project.git
